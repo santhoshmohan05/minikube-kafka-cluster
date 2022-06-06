@@ -13,6 +13,6 @@ spec:
     port: 2181
     # nodePort: 30181
     targetPort: 2181
+  nodeport: 32761
   selector:
     app: zookeeper
-
